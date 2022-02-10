@@ -1,0 +1,57 @@
+:root {
+  --gray-900: #171923;
+  --gray-800: #1a202c;
+  --gray-700: #2d3748;
+  --gray-600: #4a5568;
+  --gray-500: #718096;
+  --gray-400: #a0aec0;
+  --gray-300: #cbd5e0;
+  --gray-200: #e2e8f0;
+  --gray-100: #edf2f7;
+  --blue-600: #2b6cb0;
+  --blue-500: #3182ce;
+  --blue-400: #4299e1;
+  --blue-300: #63b3ed;
+  --blue-200: #90cdf4;
+  --blue-100: #bee3f8;
+  --purple-500: #805ad5;
+  --purple-400: #9f7aea;
+  --purple-300: #b794f4;
+  --purple-200: #d6bcfa;
+  --purple-100: #e9d8fd;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+html,
+body,
+a,
+textarea,
+input,
+button {
+  font-family: "Montserrat", sans-serif;
+}
+
+input,
+button {
+  border: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
