@@ -7,7 +7,9 @@ var react_toastify_1 = require("react-toastify");
 var routes_1 = require("./routes");
 require("./styles/dist/global.css");
 require("react-toastify/dist/ReactToastify.css");
+var index_1 = require("./context/CreateUser/index");
 react_dom_1["default"].render(react_1["default"].createElement(react_1["default"].StrictMode, null,
     react_1["default"].createElement(react_router_dom_1.BrowserRouter, null,
-        react_1["default"].createElement(routes_1.RoutesApplication, null),
+        react_1["default"].createElement(index_1.ContextUserProvider, null,
+            react_1["default"].createElement(routes_1.RoutesApplication, null)),
         react_1["default"].createElement(react_toastify_1.ToastContainer, null))), document.getElementById("root"));

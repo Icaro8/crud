@@ -1,5 +1,136 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "users": [
+    {},
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "f856c100-ac7d-4a44-bc6e-1acd11fad5fe"
+    },
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "5db8b72c-440c-4672-b93b-a20fb6742e92"
+    },
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "c81a9a73-f9d2-4953-8c87-4463036bf5be"
+    },
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "19e0ac74-73c6-431e-bbd9-98048fdd55b6"
+    },
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "09bff281-2681-4b43-b896-378334f0fd57"
+    },
+    {
+      "name": "csacsac",
+      "email": "ascsa@gmail.com",
+      "password": "acsacscacs",
+      "id": "91c66536-37b0-46d5-99f6-d8f31adaeb33"
+    },
+    {
+      "name": "165a6c5a",
+      "email": "acsac@gmaica.com",
+      "password": "csacsacs",
+      "id": "a57ac73d-63a2-484e-b2a9-8349f0e967c3"
+    },
+    {
+      "name": "165a6c5a",
+      "email": "acsac@gmaica.com",
+      "password": "csacsacs",
+      "id": "20e24460-e7cc-46b8-900f-4d72c4b6201c"
+    },
+    {
+      "name": "165a6c5a",
+      "email": "acsac@gmaica.com",
+      "password": "csacsacs",
+      "id": "6c95246c-9078-4441-a6e2-023b375f7bb9"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "9e61a133-3b8d-403b-a341-7df1f1af3a96"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "19c0e4bc-0166-4e89-b290-93d5c3cea6b7"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "e9c95042-3e6f-4f1c-aa35-6c5197eb79c4"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "b322df53-c151-4d53-8a73-8fd80ffb4697"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "58d9fe6b-9e32-486c-bc68-45778a494bf3"
+    },
+    {
+      "name": "csacsac",
+      "email": "asdsads@gmail.com",
+      "password": "dsadsad",
+      "id": "c56e73fa-61c7-4e9e-9c6e-c54326891a87"
+    },
+    {
+      "name": "dsasacas",
+      "email": "csacas@gmapc.com",
+      "password": "acacas",
+      "id": "49c592a0-a5fb-4034-a7f9-152be362dc4c"
+    },
+    {
+      "name": "dsasacas",
+      "email": "csacas@gmapc.com",
+      "password": "acacas",
+      "id": "f53d8682-ee09-4c87-bddc-ed41cfdf38ae"
+    },
+    {
+      "name": "dsasacas",
+      "email": "csacas@gmapc.com",
+      "password": "acacas",
+      "id": "2065cffb-99b6-4c0f-b8c3-43938684d865"
+    },
+    {
+      "name": "dsasacas",
+      "email": "csacas@gmapc.com",
+      "password": "acacas",
+      "id": "ecb8f1e1-a839-44b4-96a0-2c72342f7d19"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
